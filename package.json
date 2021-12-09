@@ -1,0 +1,36 @@
+{
+  "name": "skylark-domx-plugins-ranges",
+  "description": "The skylark ranges plugins library for dom api extension",
+  "version": "0.9.0",
+  "keywords": [
+    "skylark",
+    "skylarkui",
+    "swt",
+    "widget"
+  ],
+  "homepage": "https://github.com/skylark-domx-plugins/skylark-domx-plugins-ranges/",
+  "author": "Hudaokeji, Inc.",
+  "scripts": {
+    "build": "slib build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skylark-domx-plugins/skylark-domx--plugins-ranges.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skylark-domx-plugins/skylark-domx-plugins-ranges/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "skylark-domx-browser": "git+https://github.com/skylark-domx/skylark-domx-browser.git",
+    "skylark-domx-eventer": "git+https://github.com/skylark-domx/skylark-domx-eventer.git",
+    "skylark-domx-geom": "git+https://github.com/skylark-domx/skylark-domx-geom.git",
+    "skylark-domx-noder": "git+https://github.com/skylark-domx/skylark-domx-noder.git",
+    "skylark-domx-plugins-base": "git+https://github.com/skylark-domx-plugins/skylark-domx-plugins-base.git",
+    "skylark-domx-query": "git+https://github.com/skylark-domx/skylark-domx-query.git",
+    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git"
+  },
+  "engines": {
+    "node": ">=0.10.1"
+  }
+}

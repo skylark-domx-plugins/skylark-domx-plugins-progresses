@@ -1,0 +1,1 @@
+{"version":3,"sources":["slide.js"],"names":["define","ranges"],"mappings":";;;;;;;AAAAA,QACC,YACC,SAASC","file":"../slide.js","sourcesContent":["define([\r\n\t\"./ranges\"\r\n],function(ranges){\r\n\r\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","ranges"],"mappings":";;;;;;;AAAAA,QACI,WACA,cACD,SAASC,GACR,OAAOA","file":"../main.js","sourcesContent":["define([\r\n    \"./ranges\",\r\n    \"./progress\"\r\n], function(ranges) {\r\n    return ranges;\r\n});"]}
